@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Highlight the ads in google search",
+  "version": "0.1.0",
+  "description": "Highlight the ads in google search results",
+
+  "content_scripts": [
+    {
+      "css": ["src/styles.css"],
+      "matches": ["https://*.google.com/*", "https://*.google.co.in/*"]
+    }
+  ]
+}

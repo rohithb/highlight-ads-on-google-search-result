@@ -1,0 +1,10 @@
+{
+  "name": "hightlight-google-ads",
+  "version": "0.1.0",
+  "description": "Highlight the ads in google search results",
+  "main": "index.js",
+  "repository": "https://github.com/rohithb/highlight-ads-on-google-search-result",
+  "author": "Rohith Bhaskaran",
+  "license": "MIT",
+  "private": false
+}
